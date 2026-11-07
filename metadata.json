@@ -1,0 +1,6 @@
+{
+  "name": "Luxora Haven Real Estate",
+  "description": "Luxora Haven - Buy, Rent, or Sell Real Estate Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
